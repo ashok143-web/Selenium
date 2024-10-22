@@ -1,0 +1,4 @@
+Go to the Browser 
+Enter the Website 
+Enter the user nane and password
+Click the login 
